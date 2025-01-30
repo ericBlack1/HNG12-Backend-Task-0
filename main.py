@@ -14,5 +14,5 @@ def get_info():
     return {
         "email": "ericangeloawa@gmail.com",
         "current_datetime": datetime.utcnow().isoformat() + "Z",
-        "github_url": "https://github.com/yourusername/your-repo"
+        "github_url": "https://github.com/ericBlack1/HNG12-Backend-Task-0"
     }
